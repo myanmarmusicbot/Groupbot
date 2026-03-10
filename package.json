@@ -1,0 +1,6 @@
+{
+  "name": "telegram-bot",
+  "scripts": {
+    "start": "python bot.py"
+  }
+}

@@ -1,0 +1,28 @@
+
+## `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Telegram Bot
+bot.session
+*.session
+
+# Logs
+logs/
+*.log
